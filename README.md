@@ -1,5 +1,8 @@
 # FlutterStudyGroup-2020
 
+## course
+https://www.udemy.com/course/flutter-bootcamp-with-dart
+
 ## 準備週	
 1. Introduction to Cross-Platform Development with Flutter and Dart
 2. Setup and Installation
