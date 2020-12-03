@@ -1,16 +1,32 @@
-# testing_app
+# FlutterStudyGroup-2020
 
-A test Flutter application.
+## 準備週	
+1. Introduction to Cross-Platform Development with Flutter and Dart
+2. Setup and Installation
 
-## Getting Started
+## 11/18	
+1. I Am Rich - How to Create Flutter Apps From Scratch
+2. Running Your App on a Physical Device
+3. I Am Poor - App Challenge
 
-This project is a starting point for a Flutter application.
+## 12/2	
+1. MiCard - How to Build Beautiful UIs with Flutter Widgets
+2. Dicee - Building Apps with State
+3. Boss Level Challenge 1 - Magic 8 Ball
 
-A few resources to get you started if this is your first Flutter project:
+## 12/16	
+1. Xylophone - Using Flutter and Dart Package to Speed Up Development
+2. Quizzler - Modularising & Organising Flutter Code
+3. Boss Level Challenge 2 - Destini
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 12/30	
+1. BMI Calculator - Building Flutter UI for Intermediates
+2. Clima - Powering Your Flutter UI for Intermediates
+3. Clima - Powering Your Flutter App with Lives Web Data
+4. Boss Level Challenge 3 - Bitcoin Ticker
+5. Flash Chat - Flutter x Firebase Cloud Firestores
+6. Flutter State Management
+7. Next Steps
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
